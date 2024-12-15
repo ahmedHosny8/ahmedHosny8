@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Ahmed. I'm a Web Developer & Designer with a serious love for building a beautiful and elegant websites.
 
 <!--
 **ahmedHosny8/ahmedHosny8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

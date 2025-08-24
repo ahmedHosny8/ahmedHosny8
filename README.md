@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ahmed, a Web Developer & Designer who loves building beautiful and elegant websites. I enjoy turning ideas into interactive, responsive, and visually appealing experiences. For me, every project is a chance to create something both functional and delightful.
+# Hi there 👋 I'm Ahmed, a Web Developer & Designer who loves building beautiful and elegant websites. I enjoy turning ideas into interactive, responsive, and visually appealing experiences. For me, every project is a chance to create something both functional and delightful.
 
 <!--
 **ahmedHosny8/ahmedHosny8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
